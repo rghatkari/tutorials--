@@ -1,4 +1,4 @@
-package com.rghatkari.test.creational.builder;
+package com.rghatkari.creational.builder;
 
 public class BankAccount {
     private String name;

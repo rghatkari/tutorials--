@@ -1,4 +1,4 @@
-package com.rghatkari.test;
+package com.rghatkari;
 
 import static org.junit.Assert.assertTrue;
 

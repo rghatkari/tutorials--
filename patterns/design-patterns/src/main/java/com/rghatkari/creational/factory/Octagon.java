@@ -1,4 +1,4 @@
-package com.rghatkari.test.creational.factory;
+package com.rghatkari.creational.factory;
 
 public class Octagon implements Polygon {
 
