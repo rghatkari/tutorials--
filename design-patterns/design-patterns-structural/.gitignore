@@ -1,0 +1,15 @@
+*/bin/*
+bin/
+*.jar
+*.war
+*.ear
+*.class
+.idea/
+target/
+.settings/
+*.project
+*.classpath
+.prefs
+*.prefs
+.metadata/
+*.iml
